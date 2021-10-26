@@ -16,6 +16,5 @@ Para Contador <- 1 ate 13 passo 1 faca
      N2 <- Proximo
 FimPara
 
-
 fimalgoritmo
 
